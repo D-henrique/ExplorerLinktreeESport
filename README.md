@@ -33,7 +33,7 @@ This project was developed with the following technologies:
 
 The project is a hub of links related to the world of eSports and was developed at Rocketseat's Next Level Week (NLW) event.
 
-To access the project, click [here!]
+To access the project, click [here!](https://d-henrique.github.io/ExplorerLinktreeESport/)
 
 ---
 
